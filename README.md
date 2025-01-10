@@ -13,6 +13,18 @@
 
 - ⚡ Fun fact **I like solving Leetcode problems.**
 
+## 📈 Coding Profiles
+
+<span>
+<a href="https://codeforces.com/profile/21Cash">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=21Cash&theme=github_dark&force_username=true&border_color=404040" alt="21Cash's Codeforces Stats"/>
+</a>
+
+<a href="https://leetcode.com/21Cash">
+<img height="316" src="https://leetcard.jacoblin.cool/21Cash?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/itzRaghav/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Raghav's Leetcode Stats"/>
+</a>
+</span>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sushilethereal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sushilethereal" height="30" width="40" /></a>
