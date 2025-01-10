@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything in general. I'm happy to help.**
 
-- 📫 How to reach me **sushillidoriya3@gmail.com**
+- 📫 How to reach me **sushillidoriya@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ycBRNeX7IRVyB_wTr9ZT59VujMDYmyiW/view?usp=drive_link](https://drive.google.com/file/d/1ycBRNeX7IRVyB_wTr9ZT59VujMDYmyiW/view?usp=drive_link)
 
