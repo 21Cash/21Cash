@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/21Cash](https://github.com/21Cash)
 
-- 💬 Ask me about **Anything in general. I'm happy to help.**
-
 - 📫 How to reach me **sushillidoriya@gmail.com**
 
 - ⚡ Fun fact **I like solving Leetcode problems.**
