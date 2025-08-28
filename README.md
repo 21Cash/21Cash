@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushil</h1>
-<h3 align="center">I'm a 3rd year CS Student who is curious about tech.</h3>
+<h3 align="center">I'm a Final Year BTech CS Student who is likes tech.</h3>
 
 - 🌱 I’m currently learning **Next JS, Drizzle, Docker.**
 
